@@ -2,6 +2,7 @@
 using SalesWebMvc.Models;
 using System;
 using System.Collections.Generic;
+using SalesWebMvc.Models.ViewModel;
 using System.Diagnostics;
 using System.Linq;
 using System.Threading.Tasks;
